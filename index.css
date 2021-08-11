@@ -1,0 +1,20 @@
+body{
+width: 1219px;
+height: 3314px;
+background: #ffffff;
+}
+header{
+    background: #007765;
+    position: fixed;
+    width: 100%;
+    max-width: 1219px;
+    top: 0;
+    padding:0px 55px 0px 55px;
+}
+ul{
+    float: right;
+    padding-right: 54px;
+}
+li{
+    display: inline-block;
+}
